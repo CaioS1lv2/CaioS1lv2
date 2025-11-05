@@ -21,7 +21,7 @@ Oi! Sou Caio Silva, tenho 22 anos e sou de São Paulo, SP, atualmente curso Anal
 ### 🤖 Linguagens e Tecnologias
 <div>
 <img 
-    align-itens="center" 
+    justify-content= center;
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -30,14 +30,14 @@ Oi! Sou Caio Silva, tenho 22 anos e sou de São Paulo, SP, atualmente curso Anal
 />
 
  <img 
-  align-itens="center" 
+  justify-content= center; 
    alt="Caio-Csharp" 
    height="30" 
    width="40" 
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
 <img 
-    align-itens="center" 
+    justify-content= center;
     alt="Git" 
     title="Git"
     width="30px" 
@@ -45,7 +45,7 @@ Oi! Sou Caio Silva, tenho 22 anos e sou de São Paulo, SP, atualmente curso Anal
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
-    align-itens="center" 
+    justify-content= center;
     alt="Python" 
     title="Python"
     width="30px" 
