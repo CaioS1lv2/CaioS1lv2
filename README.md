@@ -7,7 +7,7 @@
 
 <!-- Presentation -->
 <p>
-  Oi, Eu sou Caio Silva estudante de Programação!.
+  Oi, Eu sou Caio Silva estudante de Cyber!
 
   - 🌱 Eu estou estudando Segurança da informação na Anhembi Morumbi, e futuramente pretendo fazer uma pós em Engenharia de Software
 
