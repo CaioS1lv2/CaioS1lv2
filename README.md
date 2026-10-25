@@ -6,22 +6,20 @@
 </div>
 
 <!-- Presentation -->
-<p>
-  Oi, Eu sou Caio Silva estudante de Cyber!
 
-  - 🌱 Eu estou estudando Segurança da informação na Anhembi Morumbi, e futuramente pretendo fazer uma pós em Engenharia de Software
+# 👨‍💻 Sobre mim
 
-  - 🔭 Eu estou procurando uma oportunidade de Programador Front-end, Meu sonho é poder entrar na area da Programação
-</p>
+Olá! Estou desenvolvendo minhas habilidades em **Cybersecurity** e **Cloud Security**.
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 Mais sobre mim</summary>
+## 🔐 Atualmente estudando
+- Linux e Bash
+- Redes de computadores
+- Segurança da informação
+- Computação em nuvem
 
-  - 💬 Sou Caio Silva, tenho 22 anos e sou de São Paulo, SP, Brasil, Sou um estudante  de tecnologia dedicado e venho aprofundando meus conhecimentos na área de desenvolvedor de software com foco na área de Backend e nas tecnologias Python, JavaScript e bancos de dados e node.js
+## 🚀 Objetivo
+Construir projetos práticos e evoluir na área de segurança da informação.
 
-  - ⚡ Gosto de jogar futebol, videogame e estudar! Acredito que equilibrar diversão e aprendizado ajuda a desenvolver criatividade e disciplina — essenciais para o crescimento pessoal e para alcançar nossos objetivos. 💪🎮
-</details>
 
 <!-- Links -->
 <a href = "https://outlook.live.com/mail/0/"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
